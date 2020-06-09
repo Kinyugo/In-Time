@@ -1,0 +1,14 @@
+.countrycard__stats {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.countrycard__stats__stat {
+  color: #7e8b9f;
+  margin: 0em 0.5em !important;
+}
+
+.countrycard__stats__total {
+  font-size: 1rem;
+}

@@ -1,0 +1,20 @@
+.article {
+  max-width: 600px;
+  text-align: center;
+}
+.article__title {
+  font-weight: 500;
+  text-decoration: none;
+  color: #1a202c;
+}
+.article__title:hover {
+  color: #5a67d8;
+}
+.article__description {
+  padding: 1em 2em;
+  color: #4a5568;
+}
+
+.article__metadata {
+  color: #718096;
+}

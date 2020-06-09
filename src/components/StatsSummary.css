@@ -1,0 +1,13 @@
+.statssummary__stats__stat {
+  max-width: fit-content;
+}
+
+.statssummary__stats__stat--confirmed {
+  background-color: #e6fffa;
+}
+.statssummary__stats__stat--deaths {
+  background-color: #fff5f5;
+}
+.statssummary__stats__stat--recovered {
+  background-color: #f0fff4;
+}

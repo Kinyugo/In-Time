@@ -1,0 +1,39 @@
+.worldtab__content {
+  text-align: -webkit-center;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.worldtab__content__global {
+  max-width: 768px;
+  margin: 0 auto;
+}
+.worldtab__content__global__card {
+  max-width: fit-content;
+}
+
+.worldtab__content__global__card--deaths {
+  background-color: #fff5f5;
+}
+
+.worldtab__content__global__card--confirmed {
+  background-color: #e6fffa;
+}
+
+.worldtab__content__global__card--recovered {
+  background-color: #f0fff4;
+}
+
+.worldtab__content__pie-chart {
+  max-width: 768px;
+  padding: 1em;
+  margin: 0 auto;
+}
+
+.worldtab__content__countries {
+  max-width: 768px;
+}
+.worldtab__content__countries__header {
+  box-shadow: none;
+  margin: 0 auto;
+}

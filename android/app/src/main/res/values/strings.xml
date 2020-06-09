@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">	In Time</string>
+    <string name="title_activity_main">	In Time</string>
+    <string name="package_name">io.intime.covid.tracker</string>
+    <string name="custom_url_scheme">io.intime.covid.tracker</string>
+</resources>
